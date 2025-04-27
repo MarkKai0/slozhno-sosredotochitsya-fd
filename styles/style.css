@@ -256,7 +256,7 @@ article {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-gap
+
 .section__article-list-item {
   display: flex;
   flex-direction: column;
